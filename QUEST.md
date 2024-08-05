@@ -470,6 +470,10 @@ J004: 콘솔로그를 찍는 습관을 고쳐보고자 선택했습니다.
 - 고친 이유: 위와 마찬가지로 구체적이고 측정 가능하지 않았기 때문에 조금 더 명확하고 측정 가능한 퀘스트로 변경합니다.
 
 ### J235\_조민석
+- 2024-08-05 (월)<br>
+  <img height="150" src="https://github.com/user-attachments/assets/3a2ab78b-e489-47b4-a2d2-72897694e047"><br>
+  <img height="200" src="https://github.com/user-attachments/assets/ddf1edd9-d993-4994-97e3-50f622813df2"><br>
+  <img height="150" src="https://github.com/user-attachments/assets/2acc2cba-f5af-413d-a348-f1a8c6bb2de0"><br>
 
 ## Quest4 : 나한테 피드백 할 점 하나 찾아보기
 
