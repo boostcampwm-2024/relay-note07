@@ -474,6 +474,9 @@ J004: 콘솔로그를 찍는 습관을 고쳐보고자 선택했습니다.
   <img height="150" src="https://github.com/user-attachments/assets/3a2ab78b-e489-47b4-a2d2-72897694e047"><br>
   <img height="200" src="https://github.com/user-attachments/assets/ddf1edd9-d993-4994-97e3-50f622813df2"><br>
   <img height="150" src="https://github.com/user-attachments/assets/2acc2cba-f5af-413d-a348-f1a8c6bb2de0"><br>
+- 2024-08-06 (화)<br>
+  <img height="200" src="https://github.com/user-attachments/assets/9e53caa8-99fb-4cd1-9309-50c03681ce36"><br>
+
 
 ## Quest4 : 나한테 피드백 할 점 하나 찾아보기
 
